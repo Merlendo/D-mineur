@@ -1,6 +1,6 @@
 ## D-mineur
 
-#To do
+# To do
 
 - Class Jeu/ OK
 - place et calcul numéro/ OK
